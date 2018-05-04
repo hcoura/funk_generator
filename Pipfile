@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyter = "*"
-notebook = "*"
 keras = "*"
-tensorflow = "*"
+tensorflow-gpu = "*"
 jupyterlab = "*"
 requests = "*"
 parsel = "*"
